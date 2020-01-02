@@ -1,3 +1,5 @@
+![Build Status](https://github.com/earldouglas/xsbt-web-plugin.g8/workflows/build/badge.svg)
+
 This is a [Giter8][g8] template for [xsbt-web-plugin].
 
 ## Template license
