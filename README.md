@@ -4,3 +4,9 @@ This is a [Giter8][g8] template for [xsbt-web-plugin].
 
 [g8]: http://www.foundweekends.org/giter8/
 [xsbt-web-plugin]: https://github.com/earldouglas/xsbt-web-plugin
+
+## Usage
+
+```
+sbt new earldouglas/xsbt-web-plugin.g8
+```
